@@ -1,0 +1,35 @@
+/*to be used for headings*/
+h1, h2, h3 {
+    font-family: 'Cinzel', garamond, serif;
+    font-weight:bold;
+    
+}
+
+/*to be used in the content/body*/
+html, body{
+font-family: 'Dosis', futura, sans-serif;
+    font-weight:bold;
+    font-size:20px;
+}
+
+
+header{
+    font: 'Cinzel';
+}
+body{
+    font: 'Dosis';
+}
+
+
+footer p {
+	font-size: 20px;
+    font-weight: bold;
+}
+
+footer a:hover {
+filter: invert(100%);
+}
+
+html, body {
+    background-color: #77A7FF;
+}
